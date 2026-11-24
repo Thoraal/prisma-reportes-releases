@@ -1,6 +1,8 @@
-﻿# Prisma Reportes
+# Prisma Reportes
 
 Reportes diarios de compras y ventas de divisas por sucursal, listos en Microsoft Excel.
+
+Funciona con una o varias empresas: cada una se reconoce por la razón social de su archivo y usa su propio perfil local (sucursales, nombres visibles, columnas, operadores excluidos y encabezados). El programa no incluye datos de ninguna empresa y trabaja sin conexión.
 
 ## â¬‡ï¸ Descargar
 
